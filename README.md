@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Hoje trabalho front (HTML e CSS) e back-end (JavaScript)<br> 🌱 Estudando C, JavaScript e Python
+🔭 Hoje trabalho front (HTML e CSS) e back-end (JavaScript)<br> 🌱 Estudando C, C# JavaScript, Python e Tailwind CSS
 
 
 ## 🌐 Socials:
