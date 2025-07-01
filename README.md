@@ -10,7 +10,6 @@
   <a href = "mailto:luca.lodi.ll53@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-fcd3ae?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
     <a href="https://www.instagram.com/luca_lodi__/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-fcd3ae?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
     <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-fcd3ae?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-    <a href="YOUR_MEDIUM_PROFILE_URL_HERE" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-fcd3ae?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
 </div>
 
 [![Lodi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaLodii&bg_color=0d1117&color=FFDAB9&line=FFDAB9&point=FFDAB9&area=true&area_color=FFDAB9&hide_border=true)](https://github.com/LucaLodii)
