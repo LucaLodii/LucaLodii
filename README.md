@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFDAB9&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDAB9&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+eu+sou+o+Lodi)](https://git.io/typing-svg)
 
-[![Lodi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucaLodii&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/LucaLodii/)
+
+[![Lodi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaLodii&bg_color=0d1117&color=FFDAB9&line=FFDAB9&point=FFDAB9&area=true&area_color=FFDAB9&hide_border=true)](https://github.com/LucaLodii)
 
 
 ### 👋 Luca here! 
