@@ -19,13 +19,13 @@
 
 ## 💻 Tech Stack:
 
-### ⚙️Backend
+### ⚙️ Backend
 [![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,java)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
-### 🎨Frontend
+### 🎨 Frontend
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,react,css,tailwind,js,vite,bootstrap)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
-### 🔐DataBase
+### 🔐 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
