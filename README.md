@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+
 ### 👋 Luca here! 
 Happily crafting Frontend and Backend solutions, always eager to learn more!
 
@@ -14,24 +16,13 @@ Happily crafting Frontend and Backend solutions, always eager to learn more!
 ## 💻 Tech Stack:
 
 #### Backend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
-  </div>
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,java)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 #### Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-</div>
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,react,css,tailwind,js,vite,bootstrap)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 #### DataBase
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" />
-</div>
+[![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
