@@ -17,6 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=LucaLodii&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LucaLodii&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LucaLodii&theme=algolia&hide_border=false)<br/>
