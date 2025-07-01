@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=918477&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDAB9&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+eu+sou+o+Lodi)](https://git.io/typing-svg)
 
@@ -34,4 +34,4 @@
 [![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=918477&height=140&section=footer"/>
