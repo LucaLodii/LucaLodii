@@ -28,7 +28,7 @@
 [![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,java)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 ### 🎨 Frontend
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,react,css,tailwind,js,vite,bootstrap)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,vite,bootstrap,npm)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
 
 ### 🔐 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
