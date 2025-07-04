@@ -14,13 +14,16 @@
 
 [![Lodi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucaLodii&bg_color=0d1117&color=FFDAB9&line=FFDAB9&point=FFDAB9&area=true&area_color=FFDAB9&hide_border=true)](https://github.com/LucaLodii)
 
-
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=LucaLodii&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucaLodii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&height=170" alt="GitHub Stats" height="136em" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=LucaLodii&theme=dark&hide_border=false&height=170" alt="GitHub Streak" height="136em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLodii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=170" alt="Top Languages" height="136em" />
 </p>
+
 
 ------
 
@@ -34,6 +37,7 @@
 
 ### 🔐 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/arturbomtempo-dev](https://github.com/LucaLodii))
+
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=918477&height=140&section=footer"/>
