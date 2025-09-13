@@ -23,7 +23,7 @@
 
 ------
 
-## 💻 Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack:
 
 ### ⚙️ Backend
 [![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,java)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
@@ -32,7 +32,7 @@
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,vite,bootstrap,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🔐 DataBase
-[![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
