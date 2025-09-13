@@ -25,11 +25,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack:
 
+### 🛠 Tools
+[![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,npm,bash)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+
 ### ⚙️ Backend
-[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java,typescript)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🎨 Frontend
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🔐 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
