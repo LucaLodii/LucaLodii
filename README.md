@@ -35,7 +35,7 @@
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🔐 DataBase
-[![Database Skills](https://skillicons.dev/icons?i=postgresql)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
+[![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
