@@ -25,7 +25,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack:
 
-### 🛠 Tools
+### 🛠️ Tools
 [![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,npm,bash)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### ⚙️ Backend
@@ -34,7 +34,7 @@
 ### 🎨 Frontend
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
-### 🔐 DataBase
+### 🔒 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
 
