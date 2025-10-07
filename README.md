@@ -29,10 +29,10 @@
 [![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,azure,npm,bash)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### ⚙️ Backend
-[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java,typescript)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🎨 Frontend
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,npm)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🔒 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
