@@ -26,7 +26,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack:
 
 ### 🛠️ Tools
-[![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,npm,bash)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,azure,npm,bash)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### ⚙️ Backend
 [![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java,typescript)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
