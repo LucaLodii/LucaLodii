@@ -37,6 +37,8 @@
 ### 🔒 DataBase
 [![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
+### 📱 Mobile
+[![Database Skills](https://skillicons.dev/icons?i=flutter,androidstudio)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
 [![](https://visitcount.itsvg.in/api?id=LucaLodii&icon=0&color=0)](https://visitcount.itsvg.in)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ba9f86&height=140&section=footer"/>
