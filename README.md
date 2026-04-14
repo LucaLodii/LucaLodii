@@ -19,7 +19,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack:
 
 ### ⚙️ Backend
-[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,java,next)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🎨 Frontend
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
