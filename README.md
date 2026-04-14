@@ -25,7 +25,7 @@
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
 
 ### 🔒 DataBase
-[![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
+[![Database Skills](https://skillicons.dev/icons?i=postgresql,supabase,mysql)]([https://github.com/LucaLodii](https://github.com/LucaLodii)) 
 
 ### 🛠️ Tools
 [![Back-end Development Skills](https://skillicons.dev/icons?i=postman,git,github,figma,azure,npm,visualstudio)]([https://github.com/LucaLodii](https://github.com/LucaLodii))
